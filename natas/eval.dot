@@ -1,0 +1,6 @@
+graph {
+    OR -- AND
+    AND -- "username=natas15"
+    AND -- "password="
+    OR -- "1=1"
+}
